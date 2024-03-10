@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaja-pt
+- 👋 Hi, I’m Khaja Zaffer (Zaffer)
 - 🌱 I’m currently seeking opportunities in data engineering alone. 
 
 <!---
